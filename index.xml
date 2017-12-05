@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>Live Tv</title>
+<thumbnail>http://iptvrocks.esy.es/imagenes/mrflix.png</thumbnail>
+<fanart>http://iptvrocks.esy.es/imagenes/livetv.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://iptvrocks.esy.es/livetv.xml</externallink>
+</item>
+
+<item>
+<title>Peliculas</title>
+<thumbnail>http://iptvrocks.esy.es/imagenes/mrflix.png</thumbnail>
+<fanart>http://iptvrocks.esy.es/imagenes/pelis.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://iptvrocks.esy.es/pelis.xml</externallink>
+</item>
+ 
+<item>
+<title>Series</title>
+<thumbnail>http://iptvrocks.esy.es/imagenes/mrflix.png</thumbnail>
+<fanart>http://iptvrocks.esy.es/imagenes/series.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://iptvrocks.esy.es/series.xml</externallink>
+</item> 
+ 
+ <item>
+<title>Deportes</title>
+<thumbnail>http://iptvrocks.esy.es/imagenes/deportes.png</thumbnail>
+<fanart>http://iptvrocks.esy.es/imagenes/mrflix.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://iptvrocks.esy.es/deportes.xml</externallink>
+</item>
+ 
+<item>
+<title>Peliculas Infantiles</title>
+<thumbnail>http://iptvrocks.esy.es/imagenes/mrflix.png</thumbnail>
+<fanart>http://iptvrocks.esy.es/imagenes/kids.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://iptvrocks.esy.es/kids.xml</externallink>
+</item>
+
+<item>
+<title>24/7</title>
+<thumbnail>http://iptvrocks.esy.es/imagenes/mrflix.png</thumbnail>
+<fanart>http://iptvrocks.esy.es/imagenes/247.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://iptvrocks.esy.es/247.xml</externallink>
+</item>
