@@ -5,7 +5,7 @@
 <thumbnail>http://iptvrocks.esy.es/imagenes/mrflix.png</thumbnail>
 <fanart>http://iptvrocks.esy.es/imagenes/livetv.png</fanart>
 <link>http://ignoreme</link>
-<externallink>http://iptvrocks.esy.es/livetv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/FTAMTY/mrflix/master/livetv.xml</externallink>
 </item>
 
 <item>
